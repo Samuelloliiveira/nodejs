@@ -1,0 +1,12 @@
+{
+  "name": "node-stadus",
+  "version": "1.0.0",
+  "description": "Estudando node/npm",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Samuel",
+  "license": "MIT"
+}
